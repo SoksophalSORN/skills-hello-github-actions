@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
 </a>
 <a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Hello%20GitHub%20Actions%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FSoksophalSORN%2Fskills-hello-github-actions%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
+
+  ## Thanks GitHub for this wonderful exercise!
   <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
 </a>
 <a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Hello%20GitHub%20Actions%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2FSoksophalSORN%2Fskills-hello-github-actions%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn%0A" target="_blank" rel="noopener noreferrer">
